@@ -1,0 +1,1 @@
+../../../../../../BWCMTApp/bwcmt_zc/BWCMT_ZCBusiness/Classes/BusinessService/ArchiveManager/Model/ZCArchiveDetailModel.h

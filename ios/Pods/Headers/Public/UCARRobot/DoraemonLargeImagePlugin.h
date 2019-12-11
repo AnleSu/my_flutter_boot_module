@@ -1,0 +1,1 @@
+../../../UCARRobot/UCARRobot/Classes/Core/Plugin/LargeImageDetection/DoraemonLargeImagePlugin.h

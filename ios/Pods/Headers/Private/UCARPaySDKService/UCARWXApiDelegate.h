@@ -1,0 +1,1 @@
+../../../UCARPaySDKService/UCARPaySDKService/Classes/Branch/Wechat/UCARWXApiDelegate.h

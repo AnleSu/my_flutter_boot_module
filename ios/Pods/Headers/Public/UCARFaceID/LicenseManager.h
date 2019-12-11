@@ -1,0 +1,1 @@
+../../../UCARFaceID/UCARFaceID/UCarLive/MGBaseKit/LicenseManager.h

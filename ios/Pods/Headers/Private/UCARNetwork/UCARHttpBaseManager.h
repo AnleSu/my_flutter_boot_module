@@ -1,0 +1,1 @@
+../../../UCARNetwork/UCARNetwork/Classes/Core/UCARHttpBaseManager.h

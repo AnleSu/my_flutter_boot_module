@@ -1,0 +1,1 @@
+../../../UCARShareSDK/SDK/UCARShareSDK/Classes/Branch/Wechat/UCARShareWX.h

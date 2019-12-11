@@ -1,0 +1,1 @@
+../../../../../../BWCMTApp/bwcmt_zc/BWCMT_ZCBusiness/Classes/BusinessService/NewCarSettled/Model/ZCSettleDetailModel.h

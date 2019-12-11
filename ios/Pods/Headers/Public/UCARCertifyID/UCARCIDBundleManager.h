@@ -1,0 +1,1 @@
+../../../UCARCertifyID/UCARCertifyID/Classes/Core/UCARCIDBundleManager.h

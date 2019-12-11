@@ -1,0 +1,71 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#else
+#ifndef FOUNDATION_EXPORT
+#if defined(__cplusplus)
+#define FOUNDATION_EXPORT extern "C"
+#else
+#define FOUNDATION_EXPORT extern
+#endif
+#endif
+#endif
+
+//
+//  USERBusiness.pch
+//  USERBusiness
+//
+//  Created by 闫子阳 on 2019/2/14.
+//  Copyright © 2019 UCAR. All rights reserved.
+//
+
+#ifndef USERBusiness_pch
+#define USERBusiness_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import <UCARUIKit/UCARUIKit.h>
+#import <Masonry/Masonry.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <SDWebImage/UIButton+WebCache.h>
+
+#import <BWCMT_Platform/CMTPlatform.h>
+#import "USERContext.h"
+#import <BWCMT_Platform/CMTMacroColor.h>
+#import <BWCMT_Platform/CMTMacroUI.h>
+#import <BWCMT_Platform/macro_config.h>
+#import <BWCMT_Platform/UIView+Extension.h>
+#import <BWCMT_Platform/Utility.h>
+#import <BWCMT_Platform/UCARGroupStore.h>
+//#import "CMTTrigger.h"
+#import "CMTUIConstant.h"
+#import "USERBusinessConstant.h"
+#import <BWCMT_Platform/UCARClientMonitor.h>
+#import <UCARUtility/UCARUtility.h>
+#import "UCARPushService.h"
+#import <UCARDeviceToken/UCARDeviceToken.h>
+#import <UCARDeviceToken/UCARKeyChainManager.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+
+#import <BWCMT_Platform/UIImage+Color.h>
+#import <ReactiveObjC/ReactiveObjC.h>
+
+// 网络
+#import "USERHttpManager.h"
+#import "USERHttpConstants.h"
+
+#import "USERNotificationConstant.h"
+
+#import <BWCMT_Platform/UILabel+MMCLabel.h>
+#import <BWCMT_Platform/NSAttributedString+MMCAttributedString.h>
+
+//platform宏定义
+#import <BWCMT_Platform/CMTDefines.h>
+#import <BWCMT_Platform/CMTForm.h>
+#import <BWCMT_Platform/UIColor+CMTColor.h>
+#import <BWCMT_Platform/UCARAlertView+CMT.h>
+#import <BWCMT_Platform/NSArray+Addons.h>
+
+
+#endif /* USERBusiness_pch */

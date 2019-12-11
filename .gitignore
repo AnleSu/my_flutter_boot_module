@@ -41,6 +41,6 @@ build/
 .flutter-plugins
 .flutter-plugins-dependencies
 
-ios
+# ios
 
 android

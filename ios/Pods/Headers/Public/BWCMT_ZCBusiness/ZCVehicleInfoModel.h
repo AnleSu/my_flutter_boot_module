@@ -1,0 +1,1 @@
+../../../../../../BWCMTApp/bwcmt_zc/BWCMT_ZCBusiness/Classes/UI/Common/Model/ZCVehicleInfoModel.h

@@ -1,0 +1,148 @@
+{
+  "name": "BWCMT_Platform",
+  "version": "1.5.2",
+  "summary": "BWCMT_Platform",
+  "description": "BWCMT_Platform 平台层组件化",
+  "homepage": "http://gitlab.10101111.com:8888/mmc/bwcmt_platform",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ucar": "ucar"
+  },
+  "source": {
+    "git": "http://gitlab.10101111.com:8888/mmc/bwcmt_platform.git",
+    "branch": "develop"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "libraries": [
+    "iconv.2.4.0",
+    "xml2",
+    "c++"
+  ],
+  "source_files": "BWCMT_Platform/Classes/**/*",
+  "resource_bundles": {
+    "BWCMT_Platform": [
+      "BWCMT_Platform/Assets/*",
+      "BWCMT_Platform/Resource/*"
+    ]
+  },
+  "frameworks": [
+    "AudioToolbox",
+    "AVKit",
+    "AssetsLibrary",
+    "AVFoundation",
+    "AddressBook",
+    "CoreLocation",
+    "CFNetwork",
+    "CoreTelephony",
+    "Contacts",
+    "CoreImage",
+    "CoreGraphics",
+    "CoreText",
+    "CoreMotion",
+    "CoreMedia",
+    "EventKit",
+    "Foundation",
+    "ImageIO",
+    "MobileCoreServices",
+    "MapKit",
+    "Photos",
+    "QuickLook",
+    "QuartzCore",
+    "Social",
+    "UIKit"
+  ],
+  "dependencies": {
+    "MJRefresh": [
+      "3.2.0"
+    ],
+    "Masonry": [
+      "1.1.0"
+    ],
+    "UCARUIKit": [
+      "2.0.9"
+    ],
+    "YYModel": [
+      "1.0.4"
+    ],
+    "FMDB": [
+      "2.7.5"
+    ],
+    "SDWebImage": [
+      "4.4.6"
+    ],
+    "UCarMapFundation": [
+      "3.0.4"
+    ],
+    "UCARDeviceToken": [
+      "1.2.3"
+    ],
+    "UCARUtility": [
+      "2.1.8"
+    ],
+    "UCARNetwork/CMT": [
+      "4.2.3"
+    ],
+    "UCARMonitor": [
+      "7.2.8"
+    ],
+    "UMengAnalytics": [
+      "4.2.4"
+    ],
+    "UCARGateKeeper": [
+      "2.0.0"
+    ],
+    "UCARShareSDK/Branch/QQ": [
+      "1.0.8"
+    ],
+    "UCARShareSDK/Branch/Wechat": [
+      "1.0.8"
+    ],
+    "UCARPushEngine": [
+      "3.1.0"
+    ],
+    "ReactiveObjC": [
+      "3.1.0"
+    ],
+    "IQKeyboardManager": [
+      "6.2.1"
+    ],
+    "WebViewJavascriptBridge": [
+      "6.0.3"
+    ],
+    "UCarMapSearchService/AMapComponent": [
+      "3.0.1"
+    ],
+    "UCarLocationService/AMapLocationComponent": [
+      "3.0.1"
+    ],
+    "CocoaLumberjack": [
+      "3.5.3"
+    ],
+    "FSCalendar": [
+      "2.8.0"
+    ],
+    "TZImagePickerController": [
+      "3.0.0"
+    ],
+    "UITextView+Placeholder": [
+      "1.3.3"
+    ],
+    "UCARClientSocket": [
+      "2.0.0"
+    ],
+    "ZCComponent": [
+
+    ],
+    "ZCComponent/QRCode": [
+
+    ],
+    "ZCComponent/UCARDatePickerView": [
+
+    ]
+  }
+}

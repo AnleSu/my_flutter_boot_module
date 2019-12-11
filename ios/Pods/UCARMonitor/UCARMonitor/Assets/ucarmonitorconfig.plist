@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>develop</key>
+	<dict>
+		<key>port</key>
+		<string>9333</string>
+		<key>domain</key>
+		<string>dmonitortest.10101111.com</string>
+	</dict>
+	<key>develop2</key>
+	<dict>
+		<key>port</key>
+		<string>9333</string>
+		<key>domain</key>
+		<string>dmonitortest02.10101111.com</string>
+	</dict>
+	<key>develop3</key>
+	<dict>
+		<key>port</key>
+		<string>9333</string>
+		<key>domain</key>
+		<string>dmonitortest03.10101111.com</string>
+	</dict>
+	<key>preproduct</key>
+	<dict>
+		<key>port</key>
+		<string>9333</string>
+		<key>domain</key>
+		<string>dmonitorpre.10101111.com</string>
+	</dict>
+	<key>product</key>
+	<dict>
+		<key>port</key>
+		<string>9333</string>
+		<key>domain</key>
+		<string>dmonitor.10101111.com</string>
+	</dict>
+</dict>
+</plist>

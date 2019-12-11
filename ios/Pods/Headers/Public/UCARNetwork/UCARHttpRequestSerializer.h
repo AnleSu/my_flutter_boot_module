@@ -1,0 +1,1 @@
+../../../UCARNetwork/UCARNetwork/Classes/Core/UCARHttpRequestSerializer.h

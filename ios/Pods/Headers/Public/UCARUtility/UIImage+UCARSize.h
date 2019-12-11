@@ -1,0 +1,1 @@
+../../../UCARUtility/UCARUtility/Classes/ImageCompress/UIImage+UCARSize.h

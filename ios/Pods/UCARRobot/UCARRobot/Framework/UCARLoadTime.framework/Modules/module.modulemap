@@ -1,0 +1,6 @@
+framework module UCARLoadTime {
+  umbrella header "UCARLoadTime.h"
+
+  export *
+  module * { export * }
+}

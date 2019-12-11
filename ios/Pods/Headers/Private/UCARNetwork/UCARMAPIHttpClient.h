@@ -1,0 +1,1 @@
+../../../UCARNetwork/UCARNetwork/Classes/MAPI/Base/UCARMAPIHttpClient.h

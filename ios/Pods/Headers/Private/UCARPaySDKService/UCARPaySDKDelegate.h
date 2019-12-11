@@ -1,0 +1,1 @@
+../../../UCARPaySDKService/UCARPaySDKService/Classes/Core/UCARPaySDKDelegate.h

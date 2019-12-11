@@ -1,0 +1,128 @@
+{
+  "name": "BWCMT_MMC",
+  "version": "0.1.0",
+  "summary": "BWCMT_MMC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://gitlab.10101111.com:8888/mmc/bwcmt_mmc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AnleSu": "anle.su@ucarinc.com"
+  },
+  "source": {
+    "git": "http://gitlab.10101111.com:8888/mmc/bwcmt_mmc.git",
+    "branch": "develop"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BWCMT_MMC/Classes/**/*",
+  "resource_bundles": {
+    "BWCMT_MMC": [
+      "BWCMT_MMC/Assets/*.xcassets"
+    ]
+  },
+  "resources": [
+    "BWCMT_MMC/ThirdFrameworks/WBCloudReflectionFaceVerify/bundles/*"
+  ],
+  "xcconfig": {
+    "GCC_PREPROCESSOR_DEFINITIONS": "TEST COCOAPODS=1"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "UMMobClick"
+  ],
+  "vendored_frameworks": "BWCMT_MMC/ThirdFrameworks/WBCloudReflectionFaceVerify/sdks/*",
+  "dependencies": {
+    "MJRefresh": [
+      "3.2.0"
+    ],
+    "Masonry": [
+      "1.1.0"
+    ],
+    "UCARUIKit": [
+      "2.0.9"
+    ],
+    "YYModel": [
+      "1.0.4"
+    ],
+    "FMDB": [
+      "2.7.5"
+    ],
+    "SDWebImage": [
+      "4.4.6"
+    ],
+    "UCARDeviceToken": [
+      "1.2.3"
+    ],
+    "UCARUtility": [
+      "2.1.8"
+    ],
+    "UCARNetwork/CMT": [
+      "4.2.3"
+    ],
+    "UCARMonitor": [
+      "7.2.8"
+    ],
+    "UMengAnalytics": [
+      "4.2.4"
+    ],
+    "UCARGateKeeper": [
+      "2.0.0"
+    ],
+    "UCARShareSDK/Branch/QQ": [
+      "1.0.8"
+    ],
+    "UCARShareSDK/Branch/Wechat": [
+      "1.0.8"
+    ],
+    "UCARPushEngine": [
+      "3.1.0"
+    ],
+    "ReactiveObjC": [
+      "3.1.0"
+    ],
+    "IQKeyboardManager": [
+      "6.2.1"
+    ],
+    "WebViewJavascriptBridge": [
+      "6.0.3"
+    ],
+    "CocoaLumberjack": [
+      "3.5.3"
+    ],
+    "FSCalendar": [
+      "2.8.0"
+    ],
+    "TZImagePickerController": [
+      "3.0.0"
+    ],
+    "UITextView+Placeholder": [
+      "1.3.3"
+    ],
+    "UCARClientSocket": [
+      "2.0.0"
+    ],
+    "UCARPaySDKService/Branch/Wechat": [
+      "1.0.1"
+    ],
+    "UCARPaySDKService/Branch/Alipay": [
+      "1.0.1"
+    ],
+    "UCARFaceID": [
+      "1.0.0"
+    ],
+    "ZCComponent": [
+
+    ],
+    "ZCComponent/QRCode": [
+
+    ],
+    "ZCComponent/UCARDatePickerView": [
+
+    ]
+  }
+}

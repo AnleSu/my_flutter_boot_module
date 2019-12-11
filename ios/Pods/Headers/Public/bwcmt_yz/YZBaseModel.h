@@ -1,0 +1,1 @@
+../../../../../../BWCMTApp/bwcmt_yz/bwcmt_yz/Classes/BusinessService/Base/Model/YZBaseModel.h

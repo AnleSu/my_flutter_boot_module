@@ -1,0 +1,1 @@
+../../../UCarMapFundation/UCarMapFundation/Classes/Common/BaiduCoordinateEncriptor.h
