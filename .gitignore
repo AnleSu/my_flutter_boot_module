@@ -37,7 +37,7 @@ Icon?
 
 build/
 .android/
-.ios/Flutter/engine/
+# .ios/Flutter/engine/
 .flutter-plugins
 .flutter-plugins-dependencies
 
